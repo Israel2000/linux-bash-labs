@@ -97,7 +97,7 @@ chmod +x hello.sh
 
 ## 🧾 Save Command History
 ```bash
-🧾 Save Command History
+history | tail -n 30 > commands.txt
 
 
 ## ✅ End of Day 1
